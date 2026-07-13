@@ -1,10 +1,12 @@
-# 👋 Ola Abduljabbar
+#👋 Ola Abduljabbar
 
-### 🚀 Flutter Developer | Mobile App Engineer | Content Creator
+<h3 align="center">🚀 Flutter Developer | Mobile App Engineer | Content Creator</h3>
 
-I build beautiful, fast, and scalable cross-platform mobile applications using Flutter.
-
-Besides coding, I create educational content about Flutter, programming, AI tools, and technology to help developers learn and grow.
+<p align="center">
+Passionate about building beautiful, fast, and scalable cross-platform mobile applications with Flutter.
+<br>
+I also create educational content about Flutter, Mobile Development, Programming, AI Tools, and Technology.
+</p>
 
 ---
 
@@ -12,74 +14,90 @@ Besides coding, I create educational content about Flutter, programming, AI tool
 
 - 💙 Flutter Developer
 - 📱 Building Android & iOS Applications
-- 🎨 Passionate about Clean UI & Smooth UX
 - 🎥 Tech Content Creator
 - 🌱 Currently learning Advanced Flutter Architecture
-- 🤝 Open Source Contributor
-- 💡 Interested in AI, Mobile Development & UI Design
+- 🎨 Passionate about Clean UI & Smooth UX
+- 💡 Interested in AI, Mobile Development & Software Engineering
+- 🤝 Open to Collaboration on Open Source Projects
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 
-<a href="https://instagram.com/YOUR_ACCOUNT">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+<img src="https://img.icons8.com/color/48/youtube-play.png" height="45"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank">
+<img src="https://img.icons8.com/color/48/tiktok.png" height="45"/>
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+</a>
+
+<a href="https://discord.gg/YOUR_SERVER" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" height="45"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+<img src="https://img.icons8.com/color/48/telegram-app.png" height="45"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+</a>
+
+<a href="https://yourportfolio.com" target="_blank">
+<img src="https://img.icons8.com/color/48/domain.png" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Mobile Development
+### 📱 Mobile Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-
 </p>
 
-### Programming
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript"/>
 </p>
 
-### Backend & Database
+### 🗄 Database & Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=firebase,mysql,supabase"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,postman"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman"/>
 </p>
 
 ---
@@ -94,24 +112,18 @@ Besides coding, I create educational content about Flutter, programming, AI tool
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
-## 📊 Visitor Count
+# 📊 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
-
----
-
-## 💬 Quote
-
-> "Code is not just about making apps, it's about creating experiences."
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 ---
 
-## ⚡ Fun Fact
+# 💬 Favorite Quote
 
-I love turning ideas into beautiful Flutter applications and sharing what I learn with the developer community.
+> *"Great apps are built with passion, clean code, and continuous learning."*

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ola Abduljabbar
+# 👋 Ola Abduljabbar
 
 ### 🚀 Flutter Developer | Mobile App Engineer | Content Creator
 
